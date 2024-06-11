@@ -1,5 +1,6 @@
-This repo includes challenge 3 about Python . 
-It includes the following two folder called PyBank and PyPoll which are essentially two parts to the challenge.
+This repo includes challenge 3 about Python. 
+It includes the following two folders called PyBank and PyPoll which are essentially two parts to the challenge.
+
 PyBank contains:
  - the python script called main.py
  - an analysis folder containing the analysed results called data_alalysis_results in a text file and
